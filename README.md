@@ -1,6 +1,6 @@
 # Phoenix Biodiversity 2017-2020
 
-Development of land and urban sprawl creates pressure on natural areas, and Maricopa County added most developed land (2001-2021) in the US. The following analysis explores changes in the biodiversity intactness index (BII) in Phoenix, Arizona from 2017 to 2020.
+Development of land and urban sprawl creates pressure on natural areas, and Maricopa County added most developed land (2001-2021) in the US. The goal of this repository is to explore changes in the biodiversity intactness index (BII) in Phoenix, Arizona from 2017 to 2020. This analysis uses biodiversity intactness index data accessed from the MPC catalog and Arizona shapefile data from the US Census Bureau.
 
 Data References
 
